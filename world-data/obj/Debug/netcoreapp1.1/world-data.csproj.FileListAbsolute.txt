@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/world-data.Solution/world-data/bin/Debug/netcoreapp1.1/world-data.deps.json
+/Users/Guest/Desktop/world-data.Solution/world-data/bin/Debug/netcoreapp1.1/world-data.runtimeconfig.json
+/Users/Guest/Desktop/world-data.Solution/world-data/bin/Debug/netcoreapp1.1/world-data.runtimeconfig.dev.json
+/Users/Guest/Desktop/world-data.Solution/world-data/obj/Debug/netcoreapp1.1/world-data.AssemblyInfo.cs
+/Users/Guest/Desktop/world-data.Solution/world-data/bin/Debug/netcoreapp1.1/world-data.dll
+/Users/Guest/Desktop/world-data.Solution/world-data/bin/Debug/netcoreapp1.1/world-data.pdb
+/Users/Guest/Desktop/world-data.Solution/world-data/obj/Debug/netcoreapp1.1/world-data.dll
+/Users/Guest/Desktop/world-data.Solution/world-data/obj/Debug/netcoreapp1.1/world-data.pdb

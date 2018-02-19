@@ -1,0 +1,20 @@
+@using WorldDataApp.Models;
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+    <title>Hello</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Countries of the world:</h1>
+      <h4><a href="/cities">Check out Cities  |</a><a href="/population">  Order by population  |</a><a href="/america">  Order by Freedom</a></h4>
+      @foreach (Country country in Country.GetAll())
+      {
+        <h4>@country.GetName() (@country.GetCode())</h4>
+        <p>Population: @country.GetPopulation()</p>
+      }
+    </div>
+  </body>
+</html>
