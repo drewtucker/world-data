@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/world-data/world-data.Tests/bin/Debug/netcoreapp1.1/world-data.Tests.deps.json
+/Users/Guest/Desktop/world-data/world-data.Tests/bin/Debug/netcoreapp1.1/world-data.Tests.runtimeconfig.json
+/Users/Guest/Desktop/world-data/world-data.Tests/bin/Debug/netcoreapp1.1/world-data.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/world-data/world-data.Tests/obj/Debug/netcoreapp1.1/world-data.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/world-data/world-data.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/world-data/world-data.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/world-data/world-data.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/world-data/world-data.Tests/bin/Debug/netcoreapp1.1/world-data.Tests.dll
+/Users/Guest/Desktop/world-data/world-data.Tests/bin/Debug/netcoreapp1.1/world-data.Tests.pdb
+/Users/Guest/Desktop/world-data/world-data.Tests/bin/Debug/netcoreapp1.1/world-data.dll
+/Users/Guest/Desktop/world-data/world-data.Tests/bin/Debug/netcoreapp1.1/world-data.pdb
+/Users/Guest/Desktop/world-data/world-data.Tests/obj/Debug/netcoreapp1.1/world-data.Tests.dll
+/Users/Guest/Desktop/world-data/world-data.Tests/obj/Debug/netcoreapp1.1/world-data.Tests.pdb

@@ -9,11 +9,14 @@
   <body>
     <div class="container">
       <h1>Countries of the world(By population):</h1>
-      <h4><a href="/cities">Check out Cities  |</a><a href="/">  Order Alphabetically</a></h4>
+      <h4><a href="/cities">Check out Cities  |</a><a href="/">  Order Alphabetically  |</a><a href="/america">  Order by Freedom</a></h4>
       @foreach (Country country in Country.SortByPopulation())
       {
         <h4>@country.GetName() (@country.GetCode())</h4>
         <p>Population: @country.GetPopulation()</p>
+        <p>Established: @country.GetIndependenceYear()</p>
+        <p>Life Expectancy: @country.GetLifeExpectancy()</p>
+        <p>Form of Government: @country.GetFormOfGov()</p>
       }
     </div>
   </body>
